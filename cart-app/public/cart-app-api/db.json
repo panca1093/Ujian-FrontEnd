@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "panca",
+      "email": "panggilsaya.saiful@gmail.com",
+      "password": "barCODE10"
+    },
+    {
+      "id": 2,
+      "username": "saiful",
+      "email": "panggilsaya.panca@gmail.com",
+      "password": "code10"
+    },
+    {
+      "username": "ipul",
+      "email": "ipul@gmail.com",
+      "password": "ipul10",
+      "id": 3
+    }
+  ],
+  "product": [
+    {
+      "name": "Takoyaki",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 57000,
+      "src": "https://asianinspirations.com.au/wp-content/uploads/2018/10/R00615_Takoyaki-1500x1000-619x412.jpg",
+      "id": 1
+    },
+    {
+      "name": "Takoyaki Octopus",
+      "desc": "Lorem ipsum dolor sit amet,",
+      "price": 60000,
+      "src": "https://www.justonecookbook.com/wp-content/uploads/2013/10/Takoyaki-NEW.jpg",
+      "id": 2
+    },
+    {
+      "name": "Okonomiyaki",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 80000,
+      "src": "http://dichvuhangkhong.com.vn/wp-content/uploads/2014/05/okonomiyaki-osaka-japan.jpg",
+      "id": 3
+    },
+    {
+      "name": "Okonomiyaki Octopus",
+      "desc": "Enak, Lezat dan Bergizi",
+      "price": 110000,
+      "src": "https://www.kannammacooks.com/wp-content/uploads/Vegetarian-okonomiyaki-Japanese-savory-cabbage-pancakes-12.jpg",
+      "id": 4
+    }
+  ],
+  "cart": [
+    {
+      "username": "panca",
+      "name": "Takoyaki Octopus",
+      "desc": "Lorem ipsum dolor sit amet,",
+      "price": 60000,
+      "src": "https://www.justonecookbook.com/wp-content/uploads/2013/10/Takoyaki-NEW.jpg",
+      "qty": 3,
+      "productId": 2,
+      "id": 1
+    },
+    {
+      "username": "saiful",
+      "name": "Okonomiyaki Octopus",
+      "desc": "Enak, Lezat dan Bergizi",
+      "price": 110000,
+      "src": "https://www.kannammacooks.com/wp-content/uploads/Vegetarian-okonomiyaki-Japanese-savory-cabbage-pancakes-12.jpg",
+      "qty": 1,
+      "productId": 4,
+      "id": 2
+    },
+    {
+      "username": "saiful",
+      "name": "Okonomiyaki",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 80000,
+      "src": "http://dichvuhangkhong.com.vn/wp-content/uploads/2014/05/okonomiyaki-osaka-japan.jpg",
+      "qty": 2,
+      "productId": 3,
+      "id": 3
+    },
+    {
+      "username": "saiful",
+      "name": "Takoyaki",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 57000,
+      "src": "https://asianinspirations.com.au/wp-content/uploads/2018/10/R00615_Takoyaki-1500x1000-619x412.jpg",
+      "qty": 2,
+      "productId": 1,
+      "id": 4
+    },
+    {
+      "username": "saiful",
+      "name": "Takoyaki Octopus",
+      "desc": "Lorem ipsum dolor sit amet,",
+      "price": 60000,
+      "src": "https://www.justonecookbook.com/wp-content/uploads/2013/10/Takoyaki-NEW.jpg",
+      "qty": 4,
+      "productId": 2,
+      "id": 5
+    }
+  ]
+}
